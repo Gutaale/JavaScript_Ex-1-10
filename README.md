@@ -1,0 +1,1 @@
+# JavaScript_Ex-1-10
